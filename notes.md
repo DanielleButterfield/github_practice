@@ -8,3 +8,4 @@ Commit: git commit -m "Says what commit does."
 Submit: git push origin master
 Get remote: git remote -v
 Set origin: git remote add origin [url]
+
