@@ -2,3 +2,4 @@ In software development, distributed version control (also known as distributed 
 
 Keywords:
 git status
+Staging: git add [filename]
